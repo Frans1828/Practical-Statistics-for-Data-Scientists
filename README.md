@@ -1,4 +1,4 @@
-# Practical Statistics for Data Scientists (O'Reilly)
+﻿# Practical Statistics for Data Scientists (O'Reilly)
 ### Code Reproduction & Theoretical Deep-Dive for Machine Learning & Deep Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
@@ -13,7 +13,7 @@ This repository contains the complete code reproduction, theoretical explanation
 
 ---
 
-## 📚 Table of Contents
+## ðŸ“š Table of Contents
 
 - [Overview](#-overview)
 - [Repository Structure](#-repository-structure)
@@ -28,7 +28,7 @@ This repository contains the complete code reproduction, theoretical explanation
 
 ---
 
-## 📖 Overview
+## ðŸ“– Overview
 
 The objective of this project is to bridge core statistical principles with practical machine learning implementation. Statistical concepts are foundational to data exploration, hypothesis formulation, feature engineering, and model validation. 
 
@@ -36,38 +36,38 @@ Each notebook reproduces the book's examples using Python scientific libraries (
 
 ---
 
-## 📂 Repository Structure
+## ðŸ“‚ Repository Structure
 
 ```plaintext
 .
-├── PracticalStatisticsChapter1.ipynb   # Chapter 1: Exploratory Data Analysis
-├── PracticalStatisticsChapter2.ipynb   # Chapter 2: Data and Sampling Distributions
-├── PracticalStatisticsChapter3.ipynb   # Chapter 3: Statistical Experiments and Significance Testing
-├── PracticalStatisticsChapter4.ipynb   # Chapter 4: Regression and Prediction
-├── requirements.txt                    # Python library dependencies
-├── _config.yml                         # Jekyll configuration for GitHub Pages
-├── cover.jpeg                          # Book cover image
-├── README.md                           # Main repository documentation & chapter summaries
-├── data/                               # Directory containing all reference datasets
-│   ├── state.csv                       # US state demographic and murder rate data
-│   ├── dfw_airline.csv                 # DFW airport flight delay statistics
-│   ├── sp500_sectors.csv               # S&P 500 stock sectors classification
-│   ├── sp500_data.csv.gz               # S&P 500 historical price time-series
-│   ├── kc_tax.csv.gz                   # King County tax assessment dataset
-│   ├── lc_loans.csv                    # Lending Club loan status data
-│   ├── airline_stats.csv               # Airline delay carrier statistics
-│   ├── loans_income.csv                # Borrowers annual income data
-│   ├── web_page_data.csv               # Web page session time test data
-│   ├── four_sessions.csv               # Four-page web session stickiness data
-│   ├── click_rates.csv                 # Headline click-through rate test data
-│   ├── imanishi_data.csv               # Imanishi experimental session data
-│   ├── LungDisease.csv                 # PEFR vs. exposure years data
-│   └── house_sales.csv                 # King County house sales data
+â”œâ”€â”€ PracticalStatisticsChapter1.ipynb   # Chapter 1: Exploratory Data Analysis
+â”œâ”€â”€ PracticalStatisticsChapter2.ipynb   # Chapter 2: Data and Sampling Distributions
+â”œâ”€â”€ PracticalStatisticsChapter3.ipynb   # Chapter 3: Statistical Experiments and Significance Testing
+â”œâ”€â”€ PracticalStatisticsChapter4.ipynb   # Chapter 4: Regression and Prediction
+â”œâ”€â”€ requirements.txt                    # Python library dependencies
+â”œâ”€â”€ _config.yml                         # Jekyll configuration for GitHub Pages
+â”œâ”€â”€ cover.jpeg                          # Book cover image
+â”œâ”€â”€ README.md                           # Main repository documentation & chapter summaries
+â”œâ”€â”€ data/                               # Directory containing all reference datasets
+â”‚   â”œâ”€â”€ state.csv                       # US state demographic and murder rate data
+â”‚   â”œâ”€â”€ dfw_airline.csv                 # DFW airport flight delay statistics
+â”‚   â”œâ”€â”€ sp500_sectors.csv               # S&P 500 stock sectors classification
+â”‚   â”œâ”€â”€ sp500_data.csv.gz               # S&P 500 historical price time-series
+â”‚   â”œâ”€â”€ kc_tax.csv.gz                   # King County tax assessment dataset
+â”‚   â”œâ”€â”€ lc_loans.csv                    # Lending Club loan status data
+â”‚   â”œâ”€â”€ airline_stats.csv               # Airline delay carrier statistics
+â”‚   â”œâ”€â”€ loans_income.csv                # Borrowers annual income data
+â”‚   â”œâ”€â”€ web_page_data.csv               # Web page session time test data
+â”‚   â”œâ”€â”€ four_sessions.csv               # Four-page web session stickiness data
+â”‚   â”œâ”€â”€ click_rates.csv                 # Headline click-through rate test data
+â”‚   â”œâ”€â”€ imanishi_data.csv               # Imanishi experimental session data
+â”‚   â”œâ”€â”€ LungDisease.csv                 # PEFR vs. exposure years data
+â”‚   â””â”€â”€ house_sales.csv                 # King County house sales data
 ```
 
 ---
 
-## 📝 Chapter Summaries
+## ðŸ“ Chapter Summaries
 
 ### Chapter 1: Exploratory Data Analysis
 **Notebook:** [`PracticalStatisticsChapter1.ipynb`](./PracticalStatisticsChapter1.ipynb)
@@ -178,7 +178,7 @@ Establishes the foundation of predictive modeling, evaluating relationships betw
 
 ---
 
-## 📊 Datasets
+## ðŸ“Š Datasets
 
 All datasets referenced across the four notebooks are stored locally in the [`data/`](./data/) directory and duplicated at the project root for seamless out-of-the-box notebook execution:
 
@@ -201,11 +201,11 @@ All datasets referenced across the four notebooks are stored locally in the [`da
 
 ---
 
-## 🛠️ Installation and Environment Setup
+## ðŸ› ï¸ Installation and Environment Setup
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Practical-Statistics-for-Data-Scientists.git
+git clone https://github.com/Frans1828/Practical-Statistics-for-Data-Scientists.git
 cd Practical-Statistics-for-Data-Scientists
 ```
 
@@ -231,7 +231,7 @@ jupyter notebook
 
 ---
 
-## 🔗 References & Links
+## ðŸ”— References & Links
 
 1. **Primary Reference Book**:  
    Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python* (2nd ed.). O'Reilly Media.  
@@ -243,6 +243,6 @@ jupyter notebook
 
 ---
 
-## ⚖️ Academic Integrity & Notes
+## âš–ï¸ Academic Integrity & Notes
 
 This repository was created as an individual submission for **TUGAS 1 (Enrichment for Machine Learning and Deep Learning Classes)**. All code reproductions and theoretical deep-dives adhere to academic integrity standards. Explanations and syntheses have been curated to provide comprehensive educational value.
