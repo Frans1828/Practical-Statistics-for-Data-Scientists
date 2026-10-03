@@ -13,7 +13,20 @@ This repository contains the complete code reproduction, theoretical explanation
 
 ---
 
-## ðŸ“š Table of Contents
+### 👤 Student Identity
+| Attribute | Details |
+| :--- | :--- |
+| **Nama** | **Fransisco Sitepu** |
+| **Kelas** | **TK 47 03** |
+| **Mata Kuliah** | **Machine Learning** |
+| **Tugas** | **TUGAS 1 (Enrichment Individual Task) - Code Reproduction & Theoretical Deep-Dive** |
+| **Buku Referensi** | *Practical Statistics for Data Scientists* (O'Reilly Media) |
+| **Repository URL** | [https://github.com/Frans1828/Practical-Statistics-for-Data-Scientists](https://github.com/Frans1828/Practical-Statistics-for-Data-Scientists) |
+
+---
+
+
+## 📚 Table of Contents
 
 - [Overview](#-overview)
 - [Repository Structure](#-repository-structure)
@@ -28,7 +41,7 @@ This repository contains the complete code reproduction, theoretical explanation
 
 ---
 
-## ðŸ“– Overview
+## 📖 Overview
 
 The objective of this project is to bridge core statistical principles with practical machine learning implementation. Statistical concepts are foundational to data exploration, hypothesis formulation, feature engineering, and model validation. 
 
@@ -36,7 +49,7 @@ Each notebook reproduces the book's examples using Python scientific libraries (
 
 ---
 
-## ðŸ“‚ Repository Structure
+## 📂 Repository Structure
 
 ```plaintext
 .
@@ -67,7 +80,7 @@ Each notebook reproduces the book's examples using Python scientific libraries (
 
 ---
 
-## ðŸ“ Chapter Summaries
+## 📝  Chapter Summaries
 
 ### Chapter 1: Exploratory Data Analysis
 **Notebook:** [`PracticalStatisticsChapter1.ipynb`](./PracticalStatisticsChapter1.ipynb)
@@ -178,7 +191,7 @@ Establishes the foundation of predictive modeling, evaluating relationships betw
 
 ---
 
-## ðŸ“Š Datasets
+## 📝 Š Datasets
 
 All datasets referenced across the four notebooks are stored locally in the [`data/`](./data/) directory and duplicated at the project root for seamless out-of-the-box notebook execution:
 
@@ -201,7 +214,7 @@ All datasets referenced across the four notebooks are stored locally in the [`da
 
 ---
 
-## ðŸ› ï¸ Installation and Environment Setup
+## 🛠️  Installation and Environment Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -231,7 +244,7 @@ jupyter notebook
 
 ---
 
-## ðŸ”— References & Links
+## 🔗 References & Links
 
 1. **Primary Reference Book**:  
    Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python* (2nd ed.). O'Reilly Media.  
@@ -243,6 +256,6 @@ jupyter notebook
 
 ---
 
-## âš–ï¸ Academic Integrity & Notes
+## ⚖️  Academic Integrity & Notes
 
 This repository was created as an individual submission for **TUGAS 1 (Enrichment for Machine Learning and Deep Learning Classes)**. All code reproductions and theoretical deep-dives adhere to academic integrity standards. Explanations and syntheses have been curated to provide comprehensive educational value.
